@@ -1,6 +1,6 @@
 ## Xin Wang
 
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | 
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
 
 I'm a former professional conference Interpreter and Translator who taught herself HTML, CSS and Python before joining Makers Academy. I'm currently looking for a software engineering role in a company that values individuality and variety to develop my skills further.
 
@@ -42,10 +42,10 @@ For a complete list, see my [GitHub](https://github.com/Xin00163?tab=repositorie
 
 **YOOX Net-A-Porter Group** (November 2014 to November 2017)    
 *Product Subeditor & Translator (Chinese speaking)*  
-• Editing Editorial and Marketing content across channels
-• Ensuring high quality of content and tone of voice is maintained across channels
-• Working with Search Engine Optimisation (SEO), Adobe Analytics, Google Trends to optimise onsite and offsite search results
-• Liaising with Merchandising and all other teams involved in the editorial and marketing process (Content Tech, Web Production, Marketing, Customer Insight)
+- Editing Editorial and Marketing content across channels
+- Ensuring high quality of content and tone of voice is maintained across channels
+- Working with Search Engine Optimisation (SEO), Adobe Analytics, Google Trends to optimise onsite and offsite search results
+- Liaising with Merchandising and all other teams involved in the editorial and marketing process (Content Tech, Web Production, Marketing, Customer Insight)
 
 **The Lingoes Ltd.** (April 2012 to November 2014)   
 *Project Manager*  
