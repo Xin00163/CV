@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
 
-I'm a former professional conference Interpreter and Translator who taught herself HTML, CSS and Python before joining Makers Academy. I'm currently looking for a software engineering role in a company that values individuality and variety to develop my skills further.
+I'm a former professional conference interpreter and translator who taught herself HTML, CSS and Python before joining Makers Academy. I'm currently looking for a software engineering role in a company that values individuality and variety to develop my skills further.
 
 ## Skills
 
@@ -10,12 +10,12 @@ I'm a former professional conference Interpreter and Translator who taught herse
 I am passionate about writing easy-to-understand, clean code that can be built on later. My experience lies mainly in Object-oriented programming languages: Python and Ruby. I've also created projects with HTML, CSS, JavaScript, OAuth, SQL and Google APP Engine.
 
 #### Project management
-I'm highly experienced in turning grand but vague ideas to action plans. I have initiated, planed and executed several projects both in the Lingoes and Yoox Net-A-Porter——streamlined the localisation workflow and increased the team's productivity.
+I'm highly experienced in turning grand but vague ideas to action plans. I have initiated, planned and executed several projects both in The Lingoes and Yoox Net-A-Porter——streamlined the localisation workflow and increased the team's productivity.
 
-During this time, I also gained valuable experience in getting buy-in from the team, managing and directing team members to work on a project, at the same time, ensuring that team members are happy, motivated and productive.
+During this time, I also gained valuable experience in getting buy-in from the team, managing and directing team members working on a project while, at the same time, ensuring that team members are happy, motivated and productive.
 
 #### Problem solving
-To reduce repetitive manual work and streamline working process, I initiated two projects while working in the Product Editorial team:  
+To reduce repetitive manual work and streamline working process I initiated two projects while working in the Product Editorial team:  
 
 - Size & Fit translation generator:
 
@@ -26,7 +26,7 @@ To reduce repetitive manual work and streamline working process, I initiated two
   Audit crawler extracts complete structured data from Net-A-Porter's Designer Landing Page and store the Product No., English Product Description and Chinese Product Description in a CSV file to be used in auditing. Previously, team members need to manually copy & paste.
 
 #### Fast learner
-Learning is an ongoing objective for a simultaneous/consecutive interpreter, so I constantly feed my mind new information, whether it be current political events or nuclear topics that you know little about. Being an interpreter also put me in various situations, conversing with different people regarding all sorts of topics, which make me a quick learner and also cultivate my curiosity for things beyond your realm of knowledge.
+As an simultaneous and consecutive interpreter I’ve been in a huge range of situations, conversing with so many different people on all sorts of topics.  This experience has kept me interested in continuing my learning and cultivating my curiosity, pushing the boundaries of my knowledge.
 
 #### Additional skills
 
@@ -44,7 +44,7 @@ For a complete list, see my [GitHub](https://github.com/Xin00163?tab=repositorie
 *Product Subeditor & Translator (Chinese speaking)*  
 - Editing Editorial and Marketing content across channels
 - Ensuring high quality of content and tone of voice is maintained across channels
-- Working with Search Engine Optimisation (SEO), Adobe Analytics, Google Trends to optimise onsite and offsite search results
+- Working on keywords with Search Engine Optimisation (SEO) team and Adobe Analytics team to optimise onsite and offsite search results
 - Liaising with Merchandising and all other teams involved in the editorial and marketing process (Content Tech, Web Production, Marketing, Customer Insight)
 
 **The Lingoes Ltd.** (April 2012 to November 2014)   
