@@ -49,11 +49,11 @@ For a complete list, see my [GitHub](https://github.com/Xin00163?tab=repositorie
 
 **The Lingoes Ltd.** (April 2012 to November 2014)   
 *Project Manager*  
-Defining the project, building a comprehensive work plan, aligning resources and managing issues, risks and budget to complete a complex project
+- Defining the project, building a comprehensive work plan, aligning resources and managing issues, risks and budget to complete a complex project
 
 **Creative Translation Ltd.**	(October 2011 to April 2012)   
-*Assistant Project Manager*
-Managing English to Chinese projects for clients like Virgin Atlantic
+*Assistant Project Manager*  
+- Managing English to Chinese projects for clients like Virgin Atlantic
 
 ## Education
 
