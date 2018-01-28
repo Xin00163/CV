@@ -6,11 +6,6 @@ I'm a former conference interpreter and translator who taught herself HTML, CSS 
 
 ## Skills
 
-#### Quick Learner
-  Since I started learning coding, I have always been picking up new technologies quickly. As someone who have never heard of massively multiuser online game, I went on to create one with my teammates within a week: [MMOG](https://github.com/Xin00163/mmog).
-
-  I also attended a one-day React Native course at CodeBar and worked a Snapchat app clone: https://github.com/Xin00163/SnapApp.
-
 #### Problem solving
   To reduce repetitive manual work and streamline working process I initiated two projects while working in Yoox Net-A-Porter's Product Editorial team:  
 
@@ -25,6 +20,12 @@ I'm a former conference interpreter and translator who taught herself HTML, CSS 
 
   During this time, I also gained valuable experience in getting buy-in from the team, managing and directing team members working on a project while, at the same time, ensuring that team members are happy, motivated and productive.
 
+#### Quick Learner
+  Since I started learning coding, I have always been picking up new technologies quickly. As someone who have never heard of massively multiuser online game, I went on to create one with my teammates within a week: [MMOG](https://github.com/Xin00163/mmog).
+
+  I also attended a one-day React Native course at CodeBar and worked a Snapchat app clone: https://github.com/Xin00163/SnapApp.
+
+
 #### Communication
   As an simultaneous and consecutive English-Chinese interpreter I’ve been in a huge range of situations, conversing with so many different people on all sorts of topics. This experience has enabled me to develop strong communication and interpersonal skills.
 
@@ -32,9 +33,9 @@ I'm a former conference interpreter and translator who taught herself HTML, CSS 
 | Project                                                                                                                        | Timeframe                                                                                         | Technologies                                        | Live                                         
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
 | [mmog](https://github.com/AAMani5/digitalaffects) | Week 9  | Ruby on rails; ActionCable; Front End: HTML/CSS, Javascript; Tested with RSpec| [link](http://strepsils.herokuapp.com/game) |
-| [Instagram](https://github.com/Xin00163/instagram-challenge) | Week 8  | Framework: Ruby on Rails, Devise; Database: Postgresql; Front End: HTML/CSS, Javascript; Tested with Rspec & Capybara| n/a |
+| [Instagram](https://github.com/Xin00163/instagram-challenge) | Week 8  | Framework: Ruby on Rails, Devise; Database: Postgresql; Front End: HTML/CSS, Javascript; Tested with Rspec & Capybara | n/a |
 | [News](https://github.com/Xin00163/news-summary-challenge) | Week 5 | Framework: Sinatra; Front End: Javascript, jQuery, HTML/CSS; Tested with Jasmine, Rspec-Capybara, Selenium-Webdriver | n/a |
-| [Chitter](https://github.com/Xin00163/chitter-challenge) | Week 4 | Framework: Sinatra; Database: PostgreSQL; ORM: Datamapper; Front End: HTML/CSS; Tested with RSpec, Capybara Encryption: Bcrypt|
+| [Chitter](https://github.com/Xin00163/chitter-challenge) | Week 4 | Framework: Sinatra; Database: PostgreSQL; ORM: Datamapper; Front End: HTML/CSS; Tested with RSpec, Capybara Encryption: Bcrypt| n/a |
 | [RockPaperScissors](https://github.com/Xin00163/rps-challenge) | Week 3 | Framework: Sinatra; Programming Language: Ruby; Front End: HTML&CSS; Tested with RSpec, Capybara| n/a |
 
 ## Experience
@@ -66,7 +67,6 @@ I'm a former conference interpreter and translator who taught herself HTML, CSS 
 - Agile/XP
 - Ruby, Rails, JavaScript, Sinatra, PostgreSQL
 - RSpec, Jasmine, Capybara, Selenium-Webdriver
-- XP values and Agile development process
 
 #### University of Westminster (September 2010 to October 2011)
 
