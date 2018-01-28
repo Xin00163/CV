@@ -57,7 +57,7 @@ I'm a former conference interpreter and translator who taught herself HTML, CSS 
 
 ## Education
 
-#### Makers Academy (November 2017 to February 2017)
+#### Makers Academy (November 2017 to February 2018)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
