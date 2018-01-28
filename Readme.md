@@ -1,42 +1,41 @@
 ## Xin Wang
 
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/xin-wang-9b9b4524/) | [Blog](https://medium.com/@shellywangxin)
 
-I'm a former professional conference interpreter and translator who taught herself HTML, CSS and Python before joining Makers Academy. I'm currently looking for a software engineering role in a company that values individuality and variety to develop my skills further.
+I'm a former conference interpreter and translator who taught herself HTML, CSS and Python before joining Makers Academy. I'm currently looking for a software engineering role in a company that values individuality and variety to develop my skills further.
 
 ## Skills
 
-#### Software engineering
-I am passionate about writing easy-to-understand, clean code that can be built on later. My experience lies mainly in Object-oriented programming languages: Python and Ruby. I've also created projects with HTML, CSS, JavaScript, OAuth, SQL and Google APP Engine.
+#### Quick Learner
+  Since I started learning coding, I have always been picking up new technologies quickly. As someone who have never heard of massively multiuser online game, I went on to create one with my teammates within a week: [MMOG](https://github.com/Xin00163/mmog).
 
-#### Project management
-I'm highly experienced in turning grand but vague ideas to action plans. I have initiated, planned and executed several projects both in The Lingoes and Yoox Net-A-Porter——streamlined the localisation workflow and increased the team's productivity.
-
-During this time, I also gained valuable experience in getting buy-in from the team, managing and directing team members working on a project while, at the same time, ensuring that team members are happy, motivated and productive.
+  I also attended a one-day React Native course at CodeBar and worked a Snapchat app clone: https://github.com/Xin00163/SnapApp.
 
 #### Problem solving
-To reduce repetitive manual work and streamline working process I initiated two projects while working in the Product Editorial team:  
+  To reduce repetitive manual work and streamline working process I initiated two projects while working in Yoox Net-A-Porter's Product Editorial team:  
 
-- Size & Fit translation generator:
+  - Size & Fit translation generator:
+    SiFi works with a VLOOKUP formula. For each sentence entered in the tool, it scans the English list in the required Database and provides the corresponding translation instantly.
 
-  SiFi works with a VLOOKUP formula. For each sentence entered in the tool, it scans the English list in the required Database and provides the corresponding translation instantly.
+  - Audit crawler:
+    Audit crawler extracts complete structured data from Net-A-Porter's Designer Landing Page and store the Product No., English Product Description and Chinese Product Description in a CSV file to be used in auditing. Previously, team members need to manually copy & paste.
 
-- Audit crawler:
+#### Project management
+  I'm experienced in turning big but vague ideas to action plans by breaking them down to small steps. I have initiated, planned and executed several projects both in The Lingoes and Yoox Net-A-Porter——streamlined the localisation workflow and increased the team's productivity.
 
-  Audit crawler extracts complete structured data from Net-A-Porter's Designer Landing Page and store the Product No., English Product Description and Chinese Product Description in a CSV file to be used in auditing. Previously, team members need to manually copy & paste.
+  During this time, I also gained valuable experience in getting buy-in from the team, managing and directing team members working on a project while, at the same time, ensuring that team members are happy, motivated and productive.
 
-#### Fast learner
-As an simultaneous and consecutive interpreter I’ve been in a huge range of situations, conversing with so many different people on all sorts of topics.  This experience has kept me interested in continuing my learning and cultivating my curiosity, pushing the boundaries of my knowledge.
-
-#### Additional skills
-
-   - Methodologies : Agile, Test Driven Development
-   - Design: Adobe Photoshop, InDesign, Illustrator
-   - Language: Chinese
+#### Communication
+  As an simultaneous and consecutive English-Chinese interpreter I’ve been in a huge range of situations, conversing with so many different people on all sorts of topics. This experience has enabled me to develop strong communication and interpersonal skills.
 
 ## Projects
-
-For a complete list, see my [GitHub](https://github.com/Xin00163?tab=repositories)
+| Project                                                                                                                        | Timeframe                                                                                         | Technologies                                        | Live                                         
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| [mmog](https://github.com/AAMani5/digitalaffects) | Week 9  | Ruby on rails; ActionCable; Front End: HTML/CSS, Javascript; Tested with RSpec| [link](http://strepsils.herokuapp.com/game) |
+| [Instagram](https://github.com/Xin00163/instagram-challenge) | Week 8  | Framework: Ruby on Rails, Devise; Database: Postgresql; Front End: HTML/CSS, Javascript; Tested with Rspec & Capybara| n/a |
+| [News](https://github.com/Xin00163/news-summary-challenge) | Week 5 | Framework: Sinatra; Front End: Javascript, jQuery, HTML/CSS; Tested with Jasmine, Rspec-Capybara, Selenium-Webdriver | n/a |
+| [Chitter](https://github.com/Xin00163/chitter-challenge) | Week 4 | Framework: Sinatra; Database: PostgreSQL; ORM: Datamapper; Front End: HTML/CSS; Tested with RSpec, Capybara Encryption: Bcrypt|
+| [RockPaperScissors](https://github.com/Xin00163/rps-challenge) | Week 3 | Framework: Sinatra; Programming Language: Ruby; Front End: HTML&CSS; Tested with RSpec, Capybara| n/a |
 
 ## Experience
 
@@ -65,8 +64,9 @@ For a complete list, see my [GitHub](https://github.com/Xin00163?tab=repositorie
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Sinatra, PostgreSQL
+- RSpec, Jasmine, Capybara, Selenium-Webdriver
+- XP values and Agile development process
 
 #### University of Westminster (September 2010 to October 2011)
 
@@ -80,5 +80,3 @@ For a complete list, see my [GitHub](https://github.com/Xin00163?tab=repositorie
 
 ## Interests
 I read everything -- classic, romantic, detective, Sci Fi, news, Chinese or English, good or bad, cook book or even menus.
-I love intriguing designs in fashion, architecture and everyday products.
-Recently, my daily dose of happiness comes from doing Codewars.
