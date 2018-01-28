@@ -59,10 +59,6 @@ I'm a former conference interpreter and translator who taught herself HTML, CSS 
 
 #### Makers Academy (November 2017 to February 2017)
 
-- Curious and passionate about code
-- Fast, independent learner
-- Great collaborator
-
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript, Sinatra, PostgreSQL
