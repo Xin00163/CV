@@ -76,4 +76,4 @@ I'm a former fashion subeditor and project manager who taught herself basic HTML
 - Bachelor of Arts (Hons)
 
 ## Interests
-I read everything -- classic, romantic, detective, Sci Fi, news, Chinese or English, good or bad, cook book or even menus.
+I read everything -- classic, romantic, detective, sci fi, news, Chinese or English. I enjoy putting together outfits and patterns for friends and family or designing small accessories. It gives me immense creative satisfaction.
