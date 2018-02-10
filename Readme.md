@@ -2,12 +2,12 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/xin-wang-9b9b4524/) | [Blog](https://medium.com/@shellywangxin)
 
-I'm a former conference interpreter and translator who taught herself HTML, CSS and Python before joining Makers Academy. I'm currently looking for a software engineering role in a company that values individuality and variety to develop my skills further.
+I'm a former fashion subeditor and project manager who taught herself basic HTML, CSS, Javascript and Python before joining Makers Academy. I'm currently looking for a software engineering role in a company that values individuality and variety to develop my skills further.
 
 ## Skills
 
 #### Problem solving
-  To reduce repetitive manual work and streamline working process I initiated two projects while working in Yoox Net-A-Porter's Product Editorial team:  
+  To reduce repetitive manual work and streamline working process, I initiated two projects while working in Yoox Net-A-Porter's Product Editorial team:  
 
   - Size & Fit translation generator:
     SiFi works with a VLOOKUP formula. For each sentence entered in the tool, it scans the English list in the required Database and provides the corresponding translation instantly.
@@ -16,12 +16,12 @@ I'm a former conference interpreter and translator who taught herself HTML, CSS 
     Audit crawler extracts complete structured data from Net-A-Porter's Designer Landing Page and store the Product No., English Product Description and Chinese Product Description in a CSV file to be used in auditing. Previously, team members need to manually copy & paste.
 
 #### Project management
-  I'm experienced in turning big but vague ideas to action plans by breaking them down to small steps. I have initiated, planned and executed several projects both in The Lingoes and Yoox Net-A-Porter——streamlined the localisation workflow and increased the team's productivity.
+  I have initiated, planned and executed several projects both in The Lingoes and Yoox Net-A-Porter——streamlined the localisation workflow and increased the team's productivity.
 
   During this time, I also gained valuable experience in getting buy-in from the team, managing and directing team members working on a project while, at the same time, ensuring that team members are happy, motivated and productive.
 
-#### Quick Learner
-  Since I started learning coding, I have always been picking up new technologies quickly. As someone who have never heard of massively multiuser online game, I went on to create one with my teammates within a week: [MMOG](https://github.com/Xin00163/mmog).
+#### Quick learner
+  Since I started learning coding, I have always been picking up new technologies quickly. As someone who are not familiar with massively multiplayer online game (MMOG), I went on to create one with my teammates within a week: [MMOG](https://github.com/Xin00163/mmog).
 
   I also attended a one-day React Native course at CodeBar and worked a Snapchat app clone: https://github.com/Xin00163/SnapApp.
 
@@ -32,10 +32,11 @@ I'm a former conference interpreter and translator who taught herself HTML, CSS 
 ## Projects
 | Project                                                                                                                        | Timeframe                                                                                         | Technologies                                        | Live                                         
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| [Scrambled-Jpeggs](https://github.com/GeorgeWhiting/Scrambled-Jpeggs) | **Final Project**  | Swift, Xcode | |
 | [mmog](https://github.com/AAMani5/digitalaffects) | Week 9  | Ruby on rails; ActionCable; Front End: HTML/CSS, Javascript; Tested with RSpec| [link](http://strepsils.herokuapp.com/game) |
-| [Instagram](https://github.com/Xin00163/instagram-challenge) | Week 8  | Framework: Ruby on Rails, Devise; Database: Postgresql; Front End: HTML/CSS, Javascript; Tested with Rspec & Capybara | n/a |
-| [News](https://github.com/Xin00163/news-summary-challenge) | Week 5 | Framework: Sinatra; Front End: Javascript, jQuery, HTML/CSS; Tested with Jasmine, Rspec-Capybara, Selenium-Webdriver | n/a |
-| [Chitter](https://github.com/Xin00163/chitter-challenge) | Week 4 | Framework: Sinatra; Database: PostgreSQL; ORM: Datamapper; Front End: HTML/CSS; Tested with RSpec, Capybara Encryption: Bcrypt| n/a |
+| [Instagram](https://github.com/Xin00163/instagram-challenge) | Week 8  | Framework: Ruby on Rails, Devise; Database: SQlite; Front End: HTML/CSS, Javascript; Tested with Rspec & factory_bot | n/a |
+| [News](https://github.com/Xin00163/news-summary-challenge) | Week 5 | Javascript, jQuery, HTML/CSS; Tested with Jasmine | n/a |
+| [Chitter](https://github.com/Xin00163/chitter-challenge) | Week 4 | Framework: Sinatra; Database: PostgreSQL; ORM: Datamapper; Front End: HTML/CSS; Tested with RSpec, Capybara; Encryption: Bcrypt| n/a |
 | [RockPaperScissors](https://github.com/Xin00163/rps-challenge) | Week 3 | Framework: Sinatra; Programming Language: Ruby; Front End: HTML&CSS; Tested with RSpec, Capybara| n/a |
 
 ## Experience
@@ -57,9 +58,9 @@ I'm a former conference interpreter and translator who taught herself HTML, CSS 
 
 ## Education
 
-#### Makers Academy (November 2017 to February 2018)
+#### Makers Academy (November 2017 to February 201)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, BDD
 - Agile/XP
 - Ruby, Rails, JavaScript, Sinatra, PostgreSQL
 - RSpec, Jasmine, Capybara, Selenium-Webdriver
