@@ -7,7 +7,7 @@ I'm a former fashion subeditor and project manager who taught herself basic HTML
 ## Skills
 
 #### Problem solving
-  To reduce repetitive manual work and streamline working process, I initiated two projects while working in Yoox Net-A-Porter's Product Editorial team:  
+  To reduce repetitive manual work and streamline working process, I created two projects while working in Yoox Net-A-Porter's Product Editorial team:  
 
   - Size & Fit translation generator:
     SiFi works with a VLOOKUP formula. For each sentence entered in the tool, it scans the English list in the required Database and provides the corresponding translation instantly.
@@ -21,9 +21,9 @@ I'm a former fashion subeditor and project manager who taught herself basic HTML
   During this time, I also gained valuable experience in getting buy-in from the team, managing and directing team members working on a project while, at the same time, ensuring that team members are happy, motivated and productive.
 
 #### Quick learner
-  Since I started learning coding, I have always been picking up new technologies quickly. As someone who are not familiar with massively multiplayer online game (MMOG), I went on to create one with my teammates within a week: [MMOG](https://github.com/Xin00163/mmog).
+  Since I started learning coding, I have always been picking up new technologies quickly. As someone who are not familiar with massively multiplayer online game (MMOG), I went on to create one with my teammates within a week: [mmog](https://github.com/Xin00163/mmog).
 
-  I also attended a one-day React Native course at CodeBar and worked a Snapchat app clone: https://github.com/Xin00163/SnapApp.
+  I also attended a one-day React Native course at CodeBar and worked a [Snapchat](https://github.com/Xin00163/SnapApp) app clone.
 
 
 #### Communication
@@ -33,9 +33,9 @@ I'm a former fashion subeditor and project manager who taught herself basic HTML
 | Project                                                                                                                        | Timeframe                                                                                         | Technologies                                        | Live                                         
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
 | [Scrambled-Jpeggs](https://github.com/GeorgeWhiting/Scrambled-Jpeggs) | **Final Project**  | Swift, Xcode | |
-| [mmog](https://github.com/AAMani5/digitalaffects) | Week 9  | Ruby on rails; ActionCable; Front End: HTML/CSS, Javascript; Tested with RSpec| [link](http://strepsils.herokuapp.com/game) |
-| [Instagram](https://github.com/Xin00163/instagram-challenge) | Week 8  | Framework: Ruby on Rails, Devise; Database: SQlite; Front End: HTML/CSS, Javascript; Tested with Rspec & factory_bot | n/a |
-| [News](https://github.com/Xin00163/news-summary-challenge) | Week 5 | Javascript, jQuery, HTML/CSS; Tested with Jasmine | n/a |
+| [mmog](https://github.com/Xin00163/mmog) | Week 9  | Ruby on rails; ActionCable; Front End: HTML/CSS, Javascript; Tested with RSpec| [link](http://strepsils.herokuapp.com/game) |
+| [Instagram](https://github.com/Xin00163/instagram-challenge) |  Week 8  | Framework: Ruby on Rails, Devise; Database: SQlite; Front End: HTML/CSS, Javascript; Tested with Rspec & factory_bot | [link](https://xin-instagram.herokuapp.com/) |
+| [News Summary](https://github.com/Xin00163/news-summary-challenge) | Week 5 | Javascript, jQuery, HTML/CSS; Tested with Jasmine | n/a |
 | [Chitter](https://github.com/Xin00163/chitter-challenge) | Week 4 | Framework: Sinatra; Database: PostgreSQL; ORM: Datamapper; Front End: HTML/CSS; Tested with RSpec, Capybara; Encryption: Bcrypt| n/a |
 | [RockPaperScissors](https://github.com/Xin00163/rps-challenge) | Week 3 | Framework: Sinatra; Programming Language: Ruby; Front End: HTML&CSS; Tested with RSpec, Capybara| n/a |
 
@@ -58,7 +58,7 @@ I'm a former fashion subeditor and project manager who taught herself basic HTML
 
 ## Education
 
-#### Makers Academy (November 2017 to February 201)
+#### Makers Academy (November 2017 to February 2018)
 
 - OOP, TDD, MVC, BDD
 - Agile/XP
@@ -76,4 +76,4 @@ I'm a former fashion subeditor and project manager who taught herself basic HTML
 - Bachelor of Arts (Hons)
 
 ## Interests
-I read everything -- classic, romantic, detective, sci fi, news, Chinese or English. I enjoy putting together outfits and patterns for friends and family or designing small accessories. It gives me immense creative satisfaction.
+I read everything -- classic, romantic, detective, Sci Fi, news, Chinese or English.
