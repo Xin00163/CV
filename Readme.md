@@ -23,7 +23,7 @@ I'm a former fashion subeditor and project manager who taught herself basic HTML
 #### Quick learner
   Since I started learning coding, I have always been picking up new technologies quickly. As someone who are not familiar with massively multiplayer online game (MMOG), I went on to create one with my teammates within a week: [mmog](https://github.com/Xin00163/mmog).
 
-  I also attended a one-day React Native course at CodeBar and worked a [Snapchat](https://github.com/Xin00163/SnapApp) app clone.
+  I also attended a one-day React Native course at CodeBar and worked on a [Snapchat](https://github.com/Xin00163/SnapApp) app clone.
 
 
 #### Communication
