@@ -27,7 +27,9 @@ I'm a former fashion subeditor and project manager who taught herself basic HTML
 
 
 #### Communication
-  In Makers Academy, I do pair programming with different people every day. For group project, I always insist on having stand-ups twice a day and switch roles after lunch break. For our final project, I suggest a learning diary where we keep record of what we did everyday to make sure everybody's on the same page. Effective communications definitely helped us to make our project a success.
+  I believe effective communication is really important for group work. When working on a group project, I had two team members not talking to each other and end up doing the same thing. In the end, one had to delete their work. Afterwords, I suggested having stand-ups every day and switching roles after lunch break. This helped us to clear any misunderstandings about who is doing what and we never faced the same problem again.
+
+  For our final project, I proposed the idea of using a learning diary to keep record of what we did everyday so that everybody would be on the same page. This also helped other people to understand our development process.
 
 
 ## Projects
