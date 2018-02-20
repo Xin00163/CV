@@ -27,7 +27,7 @@ I'm a former fashion subeditor and project manager who taught herself basic HTML
 
 
 #### Communication
-  In Makers Academy, I do pair programming with different people every day. For group project, I always insist on having stand- ups twice a day and switch roles after lunch break. For our final project, I suggest a learning diary where we keep record of what we did everyday to make sure everybody's on the same page. Effective communications definitely helped us to make our project a success.
+  In Makers Academy, I do pair programming with different people every day. For group project, I always insist on having stand-ups twice a day and switch roles after lunch break. For our final project, I suggest a learning diary where we keep record of what we did everyday to make sure everybody's on the same page. Effective communications definitely helped us to make our project a success.
 
 
 ## Projects
