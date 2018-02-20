@@ -21,13 +21,13 @@ I'm a former fashion subeditor and project manager who taught herself basic HTML
   During this time, I also gained valuable experience in getting buy-in from the team, managing and directing team members working on a project while, at the same time, ensuring that team members are happy, motivated and productive.
 
 #### Quick learner
-  Since I started learning coding, I have always been picking up new technologies quickly. As someone who are not familiar with massively multiplayer online game (MMOG), I went on to create one with my teammates within a week: [mmog](https://github.com/Xin00163/mmog).
+  Since I started learning coding, I have always been picking up new technologies quickly. As someone who is not familiar with massively multiplayer online game (MMOG), I went on to create one with my teammates within a week: [mmog](https://github.com/Xin00163/mmog).
 
   I also attended a one-day React Native course at CodeBar and worked on a [Snapchat](https://github.com/Xin00163/SnapApp) app clone.
 
 
 #### Communication
-  As an simultaneous and consecutive English-Chinese interpreter I’ve been in a huge range of situations, conversing with so many different people on all sorts of topics. This experience has enabled me to develop strong communication and interpersonal skills.
+  As a simultaneous and consecutive English-Chinese interpreter I’ve been in a huge range of situations, conversing with so many different people on all sorts of topics. This experience has enabled me to develop strong communication and interpersonal skills.
 
 ## Projects
 | Project                                                                                                                        | Timeframe                                                                                         | Technologies                                        | Live                                         
