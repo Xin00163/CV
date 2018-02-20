@@ -18,21 +18,22 @@ I'm a former fashion subeditor and project manager who taught herself basic HTML
 #### Project management
   I have initiated, planned and executed several projects both in The Lingoes and Yoox Net-A-Porter——streamlined the localisation workflow and increased the team's productivity.
 
-  During this time, I also gained valuable experience in getting buy-in from the team, managing and directing team members working on a project while, at the same time, ensuring that team members are happy, motivated and productive.
+  In my final project, I introduced Trello to the team to help manage our daily tasks. It not only helped us to break down the tasks into small steps, but also improved our productivity.
 
 #### Quick learner
   Since I started learning coding, I have always been picking up new technologies quickly. As someone who is not familiar with massively multiplayer online game (MMOG), I went on to create one with my teammates within a week: [mmog](https://github.com/Xin00163/mmog).
 
-  I also attended a one-day React Native course at CodeBar and worked on a [Snapchat](https://github.com/Xin00163/SnapApp) app clone.
+  I also attended a one-day React Native course at codebar and worked on a [Snapchat](https://github.com/Xin00163/SnapApp) app clone.
 
 
 #### Communication
-  As a simultaneous and consecutive English-Chinese interpreter I’ve been in a huge range of situations, conversing with so many different people on all sorts of topics. This experience has enabled me to develop strong communication and interpersonal skills.
+  In Makers Academy, I do pair programming with different people every day. For group project, I always insist on having stand- ups twice a day and switch roles after lunch break. For our final project, I suggest a learning diary where we keep record of what we did everyday to make sure everybody's on the same page. Effective communications definitely helped us to make our project a success.
+
 
 ## Projects
 | Project                                                                                                                        | Timeframe                                                                                         | Technologies                                        | Live                                         
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| [Scrambled-Jpeggs](https://github.com/GeorgeWhiting/Scrambled-Jpeggs) | **Final Project**  | Swift, Xcode | |
+| [Scrambled-Jpeggs](https://github.com/GeorgeWhiting/Scrambled-Jpeggs) | **Final Project**  | Swift, Xcode |  [link](https://www.facebook.com/MakersAcademy/videos/1589442717816106/?t=1386) |
 | [mmog](https://github.com/Xin00163/mmog) | Week 9  | Ruby on rails; ActionCable; Front End: HTML/CSS, Javascript; Tested with RSpec| [link](http://strepsils.herokuapp.com/game) |
 | [Instagram](https://github.com/Xin00163/instagram-challenge) |  Week 8  | Framework: Ruby on Rails, Devise; Database: SQlite; Front End: HTML/CSS, Javascript; Tested with Rspec & factory_bot | [link](https://xin-instagram.herokuapp.com/) |
 | [News Summary](https://github.com/Xin00163/news-summary-challenge) | Week 5 | Javascript, jQuery, HTML/CSS; Tested with Jasmine | n/a |
